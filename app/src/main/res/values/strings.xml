@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework71</string>
+    <string name="sync">Синхронизация</string>
+    <string name="morning">Утро</string>
+    <string name="afternoon">День</string>
+    <string name="evening">Вечер</string>
+</resources>
